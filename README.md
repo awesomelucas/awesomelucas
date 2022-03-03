@@ -1,6 +1,5 @@
 ## Prazer! Eu sou o Lucas Schmidt
-- 💻 Desenvolvedor Front End na EDNA.CENTER (A primeira plataforma completa de compliance LGPD criada para as necessidades reais das concessionárias.)
-- 📲 Estudando desenvolvimento Mobile (Flutter)
+- 💻 Desenvolvedor Front End 
 
 <div>
   <a href="https://github.com/LucasSchmidt2021">
@@ -14,6 +13,7 @@
     <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Lucas-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+    <img align="center" alt="Lucas-jQuery" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
  </div>
 
 ##
