@@ -14,7 +14,6 @@
     <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Lucas-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-    <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/flutter-original.svg">
  </div>
 
 ##
