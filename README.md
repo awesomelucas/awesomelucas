@@ -1,5 +1,5 @@
 ## Prazer! Eu sou o Lucas Schmidt
-- 💻 Desenvolvedor Front End 
+- 💻 Desenvolvedor Full Stack em formação na Kenzie Academy Brasil
 
 <div>
   <a href="https://github.com/LucasSchmidt2021">
