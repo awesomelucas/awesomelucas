@@ -1,6 +1,7 @@
 ## Prazer! Eu sou o Lucas Schmidt
 - Desenvolvedor Front End formado na Kenzie Academy Brasil
 - Desenvolvedor Full Stack em formação na Kenzie Academy Brasil
+Você pode baixar meu currículo [**aqui**](https://github.com/awesomelucas/aboutme.md/files/10099023/Lucas-Iury-Costa-Schmidt-CV.pdf)
 
 <div>
   <a href="https://github.com/LucasSchmidt2021">
